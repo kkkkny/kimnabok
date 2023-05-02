@@ -3,7 +3,7 @@ package member;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class MemberServiceImpl {
+public class MemberServiceImpl implements MemberService{
 	Scanner input = new Scanner(System.in);
 	ArrayList<String> arr = new ArrayList<>();
 	String name = null;
