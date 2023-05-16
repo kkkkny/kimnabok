@@ -16,9 +16,9 @@ public class EventSeviceImpl implements EventSevice {
 	
 	
 	
-//	public void display() {
-//		
-//	}
+	public void display() {
+		
+	}
 	
 	
 }
